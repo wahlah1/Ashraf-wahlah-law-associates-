@@ -1,4 +1,5 @@
 # Ashraf Wahlah Law Associates Website
+
 This is a responsive single-page website for Ashraf Wahlah Law Associates.
 
 ## Files
